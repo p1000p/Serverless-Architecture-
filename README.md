@@ -7,4 +7,8 @@ A serverless architecture, particularly with AWS Cloud, refers to a design appro
 - Create a DynamoDB table to store the items. 
 - Build a Lambda function to handle the CRUD operations on the DynamoDB table. 
 - Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). 
-- Create a CloudFront distribution to serve the S3-hosted static files with low latency. 
+- Create a CloudFront distribution to serve the S3-hosted static files with low latency.
+
+
+# NOTE
+After the Creation of the Website I terminated all the AWS Services I used because else I would ask to pay the charge for these services[ Pay-as-you-go pricing ]
